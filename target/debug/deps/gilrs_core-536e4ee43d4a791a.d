@@ -1,0 +1,10 @@
+D:\VSProject\snakeGame3\snakeGame3\target\debug\deps\libgilrs_core-536e4ee43d4a791a.rmeta: C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\lib.rs C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\platform\mod.rs C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\platform\windows\mod.rs C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\platform\windows\ff.rs C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\platform\windows\gamepad.rs C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\utils.rs
+
+D:\VSProject\snakeGame3\snakeGame3\target\debug\deps\gilrs_core-536e4ee43d4a791a.d: C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\lib.rs C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\platform\mod.rs C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\platform\windows\mod.rs C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\platform\windows\ff.rs C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\platform\windows\gamepad.rs C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\utils.rs
+
+C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\lib.rs:
+C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\platform\mod.rs:
+C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\platform\windows\mod.rs:
+C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\platform\windows\ff.rs:
+C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\platform\windows\gamepad.rs:
+C:\Users\金丝雀喜欢喝酸奶\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.4.1\src\utils.rs:
